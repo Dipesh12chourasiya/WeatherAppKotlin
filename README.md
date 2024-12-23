@@ -30,7 +30,7 @@ WeatherApp is a real-time weather forecasting application built using Jetpack Co
 - **Language**: Kotlin
 - **UI Framework**: Jetpack Compose
 - **Architecture**: MVVM (Model-View-ViewModel)
-- **API Integration**: Retrofit or similar library (not explicitly mentioned in the provided code)
+- **API Integration**: Retrofit
 - **Image Loading**: Coil
 - **State Management**: LiveData
 
