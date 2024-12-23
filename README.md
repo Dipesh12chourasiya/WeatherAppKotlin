@@ -1,4 +1,4 @@
-# WeatherApp Documentation
+# WeatherApp
 
 ## Overview
 WeatherApp is a real-time weather forecasting application built using Jetpack Compose. It allows users to search for any location and view detailed weather information, including temperature, humidity, wind speed, precipitation, UV index, and more. This project demonstrates modern Android development practices, such as declarative UI, LiveData, and API integration.
